@@ -6,6 +6,7 @@ public class PruebaG7 {
 		// TODO Auto-generated method stub
 		System.out.println("Hola pepe");
 		System.out.println("Hola nacho");
+		System.out.println("pasaba por su casa");
 	}
 
 }
