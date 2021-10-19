@@ -16,7 +16,11 @@ public class PruebaG7 {
 		System.out.println("no estaba linda");
 		System.out.println("se puso linda");
 		System.out.println("avisame la proxima vez, para verla yo tambien");
+<<<<<<< Updated upstream
 		System.out.println("a ti no te aviso");
+=======
+		System.out.println("Tienes que entendel");
+>>>>>>> Stashed changes
 	}
 
 }
