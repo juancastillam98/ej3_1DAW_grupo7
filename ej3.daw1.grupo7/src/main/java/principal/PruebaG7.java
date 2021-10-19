@@ -13,7 +13,7 @@ public class PruebaG7 {
 
 		System.out.println("yo vi a mi abuela");
 		System.out.println("yo vi a mi vecina");
-		
+		System.out.println("se puso linda");
 	}
 
 }
