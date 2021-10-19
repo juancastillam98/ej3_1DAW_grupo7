@@ -16,6 +16,7 @@ public class PruebaG7 {
 		System.out.println("no estaba linda");
 		System.out.println("se puso linda");
 		System.out.println("avisame la proxima vez, para verla yo tambien");
+		System.out.println("a ti no te aviso");
 	}
 
 }
