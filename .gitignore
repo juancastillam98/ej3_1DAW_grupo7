@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+ej3.daw1.grupo7/.classpath
+ej3.daw1.grupo7/.project
+ej3.daw1.grupo7/.settings/org.eclipse.m2e.core.prefs
+ej3.daw1.grupo7/.settings/org.eclipse.jdt.core.prefs
