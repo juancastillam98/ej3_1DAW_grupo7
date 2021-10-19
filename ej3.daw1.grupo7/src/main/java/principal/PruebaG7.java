@@ -23,6 +23,7 @@ public class PruebaG7 {
 		System.out.println("Que a veces no entiendo");
 		System.out.println("Es que es muy feo el regueton");
 		System.out.println("La electronica mola mas");
+		System.out.println("El EDM es la clave");
 	}
 
 }
