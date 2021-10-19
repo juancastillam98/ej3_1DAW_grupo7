@@ -7,6 +7,10 @@ public class PruebaG7 {
 		System.out.println("Hola pepe");
 		System.out.println("Hola nacho");
 		System.out.println("pasaba por su casa");
+		System.out.println("Se puso lindo");	
+		
+		
+		
 	}
 
 }
