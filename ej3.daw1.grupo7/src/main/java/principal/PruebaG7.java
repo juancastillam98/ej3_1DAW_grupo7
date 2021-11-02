@@ -34,6 +34,8 @@ public class PruebaG7 {
 		System.out.println("Entonces eres más de rock");
 		
 		System.out.println("Ahora se ha puesto de moda el rap Argentino");
+		
+		System.out.println("Dime algún tema de rap Argentino para buscarlo y escucharlo")
 
 		}
 
