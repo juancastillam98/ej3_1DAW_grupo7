@@ -29,6 +29,7 @@ public class PruebaG7 {
 		System.out.println("Aunque también me gusta el jazz");
 
 		System.out.println("The Beatles estan muy bien");
+		System.out.println("Ahora se ha puesto de moda el rap Argentino");
 
 		}
 
