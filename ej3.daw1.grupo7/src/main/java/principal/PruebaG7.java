@@ -29,7 +29,8 @@ public class PruebaG7 {
 		System.out.println("Aunque también me gusta el jazz");
 
 		System.out.println("The Beatles estan muy bien");
-
+			
+		System.out.println("Entonces eres más de rock");
 		}
 
 }
