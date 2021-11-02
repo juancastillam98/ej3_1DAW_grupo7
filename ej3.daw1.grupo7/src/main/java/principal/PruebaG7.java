@@ -25,7 +25,11 @@ public class PruebaG7 {
 		System.out.println("La electronica mola mas");
 		System.out.println("El EDM es la clave");
 		System.out.println("Yo soy más de música clásica");
+<<<<<<< Updated upstream
 		System.out.println("Aunque también me gusta el jazz");
+=======
+		System.out.println("The Beatles estan muy bien");
+>>>>>>> Stashed changes
 		}
 
 }
