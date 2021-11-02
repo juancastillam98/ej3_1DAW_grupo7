@@ -24,6 +24,7 @@ public class PruebaG7 {
 		System.out.println("Es que es muy feo el regueton");
 		System.out.println("La electronica mola mas");
 		System.out.println("El EDM es la clave");
-	}
+		System.out.println("Yo soy más de música clásica");
+		}
 
 }
