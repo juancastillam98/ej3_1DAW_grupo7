@@ -29,7 +29,9 @@ public class PruebaG7 {
 		System.out.println("Aunque tambiÃ©n me gusta el jazz");
 
 		System.out.println("The Beatles estan muy bien");
-		System.out.println("To solo he escchado una canción de los beatles");
+		System.out.println("To solo he escchado una canciï¿½n de los beatles");
+		System.out.println("Ahora se ha puesto de moda el rap Argentino");
+
 		}
 
 }
