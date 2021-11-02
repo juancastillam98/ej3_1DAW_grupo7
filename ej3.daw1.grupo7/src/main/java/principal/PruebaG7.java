@@ -36,6 +36,7 @@ public class PruebaG7 {
 		System.out.println("Ahora se ha puesto de moda el rap Argentino");
 		
 		System.out.println("Dime algún tema de rap Argentino para buscarlo y escucharlo")
+		System.out.println("A mi no me convence");
 
 		}
 
