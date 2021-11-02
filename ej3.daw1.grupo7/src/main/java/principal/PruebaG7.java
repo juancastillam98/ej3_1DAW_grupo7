@@ -30,6 +30,9 @@ public class PruebaG7 {
 
 		System.out.println("The Beatles estan muy bien");
 		System.out.println("To solo he escchado una canci�n de los beatles");
+			
+		System.out.println("Entonces eres más de rock");
+		
 		System.out.println("Ahora se ha puesto de moda el rap Argentino");
 
 		}
