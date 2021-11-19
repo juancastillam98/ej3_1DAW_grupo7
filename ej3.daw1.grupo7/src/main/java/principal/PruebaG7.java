@@ -33,6 +33,7 @@ public class PruebaG7 {
 		System.out.println("Cambiamos de tema mejor");
 		System.out.println("Hablemos de cine, ¿cuál es tu película favorita?");
 		System.out.println("Mi película favorita es Matrix");
+		System.out.println("La mia es Titanic");
 		}
 
 }
