@@ -30,6 +30,9 @@ public class PruebaG7 {
 		System.out.println("A mi no me convence");
 		System.out.println("Ni a mi");
 		System.out.println("Mejor el rap español");
+		System.out.println("Cambiamos de tema mejor");
+		System.out.println("Hablemos de cine, ¿cuál es tu película favorita?");
+		System.out.println("Mi película favorita es Matrix");
 		}
 
 }
